@@ -1,0 +1,25 @@
+.section2-k{
+    background-image: url(img/mob.jpg);
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    width: 100%;
+    box-sizing: border-box;
+    height: 675px;
+}
+.mobile-k{
+    margin-right: 130px;
+    padding-top: 65px;
+    
+    height: 610px;
+    display: block;
+}
+.card1-k{
+    background: transparent;
+    margin-top: 60px;
+    border: 0px;
+    width: 85% ;
+}
+@media only screen and(maxwidth:320px){
+    .card-img-overlay{
+        width:30px;
+    }
+}
